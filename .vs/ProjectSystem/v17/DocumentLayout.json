@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|c:\\users\\kershey\\source\\repos\\projectsystem\\projectsystem\\a11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\a11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\managerentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\managerentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\managerentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\managerentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\a11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\a11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\rentproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\rentproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\receiptandpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\receiptandpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\tenants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\tenants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\projectsystem\\usercontrols\\buildinga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32D648-A022-49EB-B9EC-1C7CBF7C2388}|ProjectSystem\\ProjectSystem.csproj|solutionrelative:projectsystem\\usercontrols\\buildinga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rental.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\Rental.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\Rental.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\Rental.cs [Design]",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\Rental.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:50:47.783Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageRentals.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\ManageRentals.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\ManageRentals.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\ManageRentals.cs [Design]",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\ManageRentals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:18:06.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentProperty.cs",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\RentProperty.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\RentProperty.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\RentProperty.cs",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\RentProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:17:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageRentals.cs",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\ManageRentals.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\ManageRentals.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\ManageRentals.cs",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\ManageRentals.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:42:23.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A11.cs",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\A11.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\A11.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\A11.cs*",
+              "RelativeToolTip": "ProjectSystem\\A11.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAAAvwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:53:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\A11.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\A11.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\A11.cs [Design]*",
+              "RelativeToolTip": "ProjectSystem\\A11.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:09:32.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReceiptAndPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\ReceiptAndPayment.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\ReceiptAndPayment.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\ReceiptAndPayment.cs [Design]",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\ReceiptAndPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:48:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\Main.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\Main.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\Main.cs",
+              "RelativeToolTip": "ProjectSystem\\Main.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAmwHAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:34:38.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tenants.cs",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\Tenants.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\Tenants.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\Tenants.cs",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\Tenants.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T03:54:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuildingA.cs",
+              "DocumentMoniker": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\BuildingA.cs",
+              "RelativeDocumentMoniker": "ProjectSystem\\UserControls\\BuildingA.cs",
+              "ToolTip": "C:\\Users\\KERSHEY\\source\\repos\\ProjectSystem\\ProjectSystem\\UserControls\\BuildingA.cs",
+              "RelativeToolTip": "ProjectSystem\\UserControls\\BuildingA.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAD4vzQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T03:37:02.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
